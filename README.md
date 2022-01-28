@@ -1,3 +1,4 @@
+## Hey! This is EldersJavas!✨
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EldersJavas&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -7,18 +8,17 @@
   - [Afdian](https://afdian.net/@maicarons)
   - [BanCiYuan](https://www.bcy.net/u/545782051377838)
 <br><br><br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldersJavas" />
-</a>
 
 ### 🔭 I am the author of 
   - [gomclauncherGUI](https://github.com/EldersJavas/gomclauncherGUI) - A GUI Minecraft Launcher by Golang
   - [EsDingTalkBot_Go](https://github.com/EldersJavas/EsDingTalkBot_Go) - Using DingTalk GroupBot with one line
 
 ### 📫 I am the Translator of 
-  - [MX Linux](https://mxlinux.org/) - A cooperative venture between the antiX and MX Linux communities
-  - [Sakura Editor](https://github.com/sakura-editor/sakura) - Japanese text editor for MS Windows
-
+  - [ ] [MX Linux](https://mxlinux.org/) - A cooperative venture between the antiX and MX Linux communities
+  - [x] [ebiten doc](https://github.com/ebitenpot/ebiten.org) - A very simple 2D game library for Go
+  - [ ] [Sakura Editor](https://github.com/sakura-editor/sakura) - Japanese text editor for MS Windows
+  - [ ] [pnpm](https://github.com/pnpm) - Fast, disk space efficient package manager 
 <!--
 **EldersJavas/EldersJavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
