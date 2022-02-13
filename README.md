@@ -7,18 +7,21 @@
   - [Bilibili](https://space.bilibili.com/65342934)
   - [Afdian](https://afdian.net/@maicarons)
   - [BanCiYuan](https://www.bcy.net/u/545782051377838)
-<br><br><br><br><br><br>
+  - [more...](./findme.md)
+<br><br><br><br><br>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldersJavas" />
 
 ### 🔭 I am the author of 
   - [gomclauncherGUI](https://github.com/EldersJavas/gomclauncherGUI) - A GUI Minecraft Launcher by Golang
   - [EsDingTalkBot_Go](https://github.com/EldersJavas/EsDingTalkBot_Go) - Using DingTalk GroupBot with one line
+  - [more...](https://github.com/EldersJavas?tab=repositories)
 
 ### 📫 I am the Translator of 
   - [ ] [MX Linux](https://mxlinux.org/) - A cooperative venture between the antiX and MX Linux communities
   - [x] [ebiten doc](https://github.com/ebitenpot/ebiten.org) - A very simple 2D game library for Go
   - [ ] [Sakura Editor](https://github.com/sakura-editor/sakura) - Japanese text editor for MS Windows
   - [ ] [pnpm](https://github.com/pnpm) - Fast, disk space efficient package manager 
+  - [more...](./Translate.md)
 <!--
 **EldersJavas/EldersJavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
