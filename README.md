@@ -6,6 +6,9 @@
   </a>
 </div>
 
+
+<div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%231D93F7&center=true&vCenter=true&lines=Hey!+This+is+EldersJavas!;%E5%98%BF!+%E6%88%91%E6%98%AFEldersJavas!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AFEldersJavas%E3%81%A7%E3%81%99!)](https://git.io/typing-svg) 
 
 ### 💬 Find me 
@@ -15,6 +18,7 @@
   - [more...](./findme.md)
 
 </div>
+
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldersJavas" />
 </div>
