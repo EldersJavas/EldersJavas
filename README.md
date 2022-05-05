@@ -8,7 +8,7 @@
 </a>
 
 ### 💬 Find me 
-  - [Bilibili](https://space.bilibili.com/65342934)
+
   - [Afdian](https://afdian.net/@maicarons)
   - [BanCiYuan](https://www.bcy.net/u/545782051377838)
   - [more...](./findme.md)
