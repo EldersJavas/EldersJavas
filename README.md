@@ -7,6 +7,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EldersJavas&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+### Some says
+If u followed me I'll follow back.  
+If u need A GUI for ur golang projects, feel free to contact me.
+
+
 ### 💬 Find me 
 
   - [Afdian](https://afdian.net/@maicarons)
