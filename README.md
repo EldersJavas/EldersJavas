@@ -13,7 +13,11 @@ If u need A GUI for ur golang projects, feel free to contact me.
 
 
 ### 💬 Find me 
-
+  - [GitLab](https://gitlab.com/EldersJavas)
+  - [Crowdin](https://crowdin.com/profile/EldersJavas)
+  - [Transifex](https://www.transifex.com/user/profile/EldersJavas/)
+  - [Weblate](https://hosted.weblate.org/user/EldersJavas/)
+  - [Gitee](https://gitee.com/EldersJavas_admin)
   - [Afdian](https://afdian.net/@maicarons)
   - [BanCiYuan](https://www.bcy.net/u/545782051377838)
   - [more...](./findme.md)
@@ -27,7 +31,7 @@ If u need A GUI for ur golang projects, feel free to contact me.
   - [more...](https://github.com/EldersJavas?tab=repositories)
 
 ### 📫 I am the Translator of 
-  - My profiles: [crowdin](https://crowdin.com/profile/EldersJavas) [Transifex](https://www.transifex.com/user/profile/EldersJavas/) [Weblate](https://hosted.weblate.org/user/EldersJavas/)
+  - My profiles: [Crowdin](https://crowdin.com/profile/EldersJavas) [Transifex](https://www.transifex.com/user/profile/EldersJavas/) [Weblate](https://hosted.weblate.org/user/EldersJavas/)
   - [x] [MX Linux](https://mxlinux.org/) - A cooperative venture between the antiX and MX Linux communities
   - [x] [ebiten doc](https://github.com/ebitenpot/ebiten.org) - A very simple 2D game library for Go
   - [ ] [Sakura Editor](https://github.com/sakura-editor/sakura) - Japanese text editor for MS Windows
